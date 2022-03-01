@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A golden chain of four links to draw poor souls to their desired habitation or, The four last things briefly discoursed of, viz. Death, which is most certain, judgment, which is most strict, hell, which is most dismal; heaven, which is most delightfull. To which is added wholsome instructions both to young and old, in order to prepare themselves for their latter end, and avoid all sinful allurements, which usually obstructs that great and necessary work of salvation. With some necessary directions to die well, in order to avoid hell, and obtain heaven. / By Mr. J. Stevens.</title>
+            <author>Stevens, Joseph, fl. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05969</idno>
+            <idno type="STC">Wing S5497B</idno>
+            <idno type="STC">ESTC R184642</idno>
+            <idno type="EEBO-CITATION">52614964</idno>
+            <idno type="OCLC">ocm 52614964</idno>
+            <idno type="VID">176201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176201)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A golden chain of four links to draw poor souls to their desired habitation or, The four last things briefly discoursed of, viz. Death, which is most certain, judgment, which is most strict, hell, which is most dismal; heaven, which is most delightfull. To which is added wholsome instructions both to young and old, in order to prepare themselves for their latter end, and avoid all sinful allurements, which usually obstructs that great and necessary work of salvation. With some necessary directions to die well, in order to avoid hell, and obtain heaven. / By Mr. J. Stevens.</title>
+                  <author>Stevens, Joseph, fl. 1700.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Pritned and sold by James Watson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, tightly bound with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eschatology --  Early works to 1800.</term>
+               <term>Death --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Judgment --  Relgious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Hell --  Christianity --  Early works to 1800.</term>
+               <term>Heaven --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176201:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Golden Chain</hi> OF <hi>FO<g ref="char:V">Ʋ</g>R LINKS</hi> To draw poor Souls to their deſired Habitation Or, The Four laſt Things Briefly diſcourſed of, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Death,</hi> which is moſt Certain;</item>
+                  <item>
+                     <hi>Judgement,</hi> which is moſt Strict,</item>
+                  <item>
+                     <hi>Hell,</hi> which is moſt Diſmal;</item>
+                  <item>
+                     <hi>Heaven,</hi> which is moſt Delightfull.</item>
+               </list>
+            </p>
+            <p>To which is added Wholſome Inſtructions both to Young and Old, in order to prepare themſelves for their Latter End, and Avoid all ſinful Al<g ref="char:EOLhyphen"/>lurements, which uſually obſtructs that great and neceſſary Work of Salvation.</p>
+            <p>With ſome Neceſſary Directions to Die well, in order to avoid <hi>Hell,</hi> and obtain <hi>Heaven</hi> By Mr. <hi>Joſ: Stevens.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed and Sold by <hi>James Watſon</hi> in <hi>Craig</hi>'s Cloſs, on the North ſide of the Croſs, 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176201:2"/>
+            <pb n="3" facs="tcp:176201:2"/>
+            <p>COnſidering that this Ungratful Age abounds with ſo much Infidelity, Impiety &amp; Unbelief, as to make ſome ſo obſtinate as to affirm, That the Spirit of Man vaniſheth with his breath, and that Death is only the end of this Life, and not the beginning of another; I thought it highly neceſſary, as well as Proper and Con<g ref="char:EOLhyphen"/>venient, in order to awaken the hardened and drowſie Conſciences of ſuch, to give ſome lively (though brief) touches upon the Four laſt things, <hi>viz.</hi> Death, which is moſt certain; Judgment, which is most ſtrict: Hell, which is moſt diſmal; Heaven, which is most delight<g ref="char:EOLhyphen"/>full: All which I ſhall particularly and briefly inſtance.</p>
+            <div type="part">
+               <head>I. Of Death.</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Pſalm 89.4.</hi>
+                     </bibl>
+                     <p>What Man is he that liveth, and ſhall not ſee Death?</p>
+                  </q>
+               </epigraph>
+               <p>OUt of the Duſt was Man formed, and unto the Duſt ſhall Man return: It is appointed for all Men once to die, <hi>Heb.</hi> 9.27. Death to the Wicked, is the end of all Comfort, and the beginning of all Miſery, but Death to the Godly is a happy diſcharge, &amp; freedom from Sin &amp; Sor<g ref="char:EOLhyphen"/>row, and the only inlet to Peace and Happineſs, the Saints Enjoyments ſhall be incomparable, when the Sinners Torments ſhall be intolerable; when a Sinner dies, he carries his bad with him, &amp; leaves his good behind him. But when a Believer dies, he leaves all his bad behind him, &amp; carries his good with him: The Sinner goes from Good to Evil; the Believer from Evil to Good: When a Saint leaves the World, his Fleſh turns to Duſt, &amp; his Spirit returns to reſt: When a Sinner leaves
+<pb n="4" facs="tcp:176201:3"/>the World, his Body goes to Worms to be con<g ref="char:EOLhyphen"/>ſumed, and his Soul to Flames to be tormented.</p>
+               <p>When you come into the World, you do but live to die again, when you go out of the World you do but die to live again. He that lives well cannot die ill: He that lives without fear, ſhall certainly die wthout hope. He that hath no grace in his Life, can have no true peace in his Death This King of Terrors, Death, levelleth the high<g ref="char:EOLhyphen"/>eſt Mountains with the loweſt Valies; the Robes of Princes &amp; the Rags of Beggars are both laid up alike in the wardrobe of the Grave, which is a bed to reſt in, but not a Shop to trade in; there<g ref="char:EOLhyphen"/>fore go to your beds, as you were going to your Graves, and ſo cloſe your Eyes in one World, as you would open them in another; &amp; remember that God can as eaſily turn you into Duſt, as he took you thence; to Day is your living day, tomorrow may be your dying one: In ſhort, the Meditation of Death is the only Motive in order for a Preparation thereunto.</p>
+               <p>Therefore, Chriſtian Soul, whoſoever thou art conſider the ſhortneſs of thy Life; &amp; how uncer<g ref="char:EOLhyphen"/>tain Death is; he may come this Hour before the next. Thou art not ſure when thou goeſt to bed at Night to take thy reſt, whether thou ſhalt ever a<g ref="char:EOLhyphen"/>wake again, though never ſo well; &amp; if ſo be thou awake in the Morning, whether thou ſhalt live till Night: for Death is the great Meſſenger of Mor<g ref="char:EOLhyphen"/>tality; &amp; his coming is certain, but when, is un<g ref="char:EOLhyphen"/>certain: There is no reſiſting of his mighty Power when he comes. He ſweeps all before him, both Rich and poor, Old and Young, it's all one to him
+<pb n="5" facs="tcp:176201:3"/>for when their Glaſs is run, they muſt ſtay no long<g ref="char:EOLhyphen"/>er here, but to change this Life for a better or worſe, according as thou haſt ſpent thy time here whether in doing Good or doing Evil. Therefore dear Soul, put not off thy Repentance until ano<g ref="char:EOLhyphen"/>ther Day, for thou art not ſure to ſee an end of this. Provide therefore that thy Bed may rather find thee fitted for God, than fit thee, &amp; ſo order thy Eſtate and thy Soul, in thy Health, that when Death comes, thou mayſt have nothing to do but to die. Let not thy Thoughts be how thou ſhalt live here, but how thou ſhalt live hereafter; mind not the vain pleaſures of this World, which is but momentary; but rather pray to God for his Grace (without which you can do nothing that you may endure all Hard ſhips and Croſſes here with patience and Comfort, and that you may do all the Good that in you lies to the Advancement of his Glory, and your Eter<g ref="char:EOLhyphen"/>nal Welfare</p>
+            </div>
+            <div type="part">
+               <head>II Of Judgment.</head>
+               <p>MEditate upon Judgment, which is moſt ſtrict: We muſt all appear before the Judg<g ref="char:EOLhyphen"/>ment-Seat of Chriſt, they who have been grace<g ref="char:EOLhyphen"/>leſs in their Days, will be ſpeechleſs in this Day, they who would not come before his Mercy-Seat ſhall be forced to come before his Judgment-Seat thoſe that would not believe his promiſes, ſhall tremble at his Threatnings; and indeed it muſt be very Amazing to ſee the Earth flaming, the Hea<g ref="char:EOLunhyphen"/>vens melting, the Stars falling, the Graves open<g ref="char:EOLhyphen"/>ing, the Judgment haſtening, the Sun and Moon declining, and Chriſt and his Angels coming: He
+<pb n="6" facs="tcp:176201:4"/>that comes to raiſe the Dead, comes alſo to judge the Dead. Oh! this great Day, to great Sinners, will be a terrible &amp; ghaſtly day, when they ſhall behold Chriſt coming in the Clouds, having the perſon of a Man, but the power of God; being crowned with Dignity, and guarded with Angels &amp; enraged with Anger, and enabled with power to bring forth both High and Low, Rich and Poor to his Bar, where he will judge them, not by the whiteneſs of their Countenance, but by the Black<g ref="char:EOLhyphen"/>neſs of their Conſciences; and though he was guarded to the Croſs with a Band of Soldiers, yet here he is guarded with a glorious Train of An<g ref="char:EOLhyphen"/>gels, You that make no account of his coming. what account will you make at his coming: therefore for the Lord's ſake, meditate upon <hi>Judg<g ref="char:EOLhyphen"/>ment,</hi> for it is the only means to make you Judg<g ref="char:EOLhyphen"/>ment proof. O Chriſtian, ſeriouſly conſider this and repent of your Sins before it is too late, and break thoſe Bands aſſunder that leads to utter Deſtruction, for there's no Repentance after Death, for after Death comes Judgment.</p>
+               <p>O ye <hi>Drunkards, Swearers, Lyars, Whoremongers, Covetous,</hi> and <hi>Oppreſſors</hi> of the <hi>Poor,</hi> you that do deſpite to the Spirit of Grace, &amp; will not hearken to the many loving Calls &amp; invitations of Al<g ref="char:EOLhyphen"/>mighty God by his Spirit &amp; Miniſtry, take notice that this Day of God's Wrath will be a Day of Ter<g ref="char:EOLhyphen"/>rors to you, which will make your Hearts ſink within you, your Countenance to change, your Joints to be looſed, when the Terrors of the Al<g ref="char:EOLhyphen"/>mighty at this time ſhall ſeize upon you; there<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:176201:4"/>ſaith the Apoſtle, 1 <hi>Cor.</hi> 5.11. <hi>Knowing the Terrors of the Lord, we perſwade Men.</hi> This Day will be a Day of extream Sorrow and Anguiſh to the Wicked, <hi>Prov</hi> 1.20. <hi>When your Fear ſhall come as deſolation, and your Deſtruction as a Whirlwind</hi> Zeph. 1.15. <hi>That Day is the Day of Wrath, a Day of Trouble &amp; Diſtreſs, a Day of Waſtneſs &amp; Deſolations.</hi> Therefore, whoever you are, let your daily Pra<g ref="char:EOLhyphen"/>ctice be in <hi>piety,</hi> doing good to thoſe that ſtand in need of your Help, as far as your Circumſtances will let you, being Charitable &amp; Compaſſionate, ever ſtriving againſt the Temptations of the Devil ſlighting the fooliſh pleaſures of this World, ac<g ref="char:EOLhyphen"/>counting them, as they are, nothing but vexation of Spirit, but be always minding thoſe that are Eternal; for if you expect to be any of thoſe Souls that dwell in thoſe Manſions of Bliſs and Happi<g ref="char:EOLhyphen"/>neſs, you muſt <hi>fear God, and keep his Commandments;</hi> for that is the whole Duty of Man.</p>
+            </div>
+            <div type="part">
+               <head>III. The Torments of hell, and diſmal State of the Wicked.</head>
+               <p>THe third thing neceſſar, is to meditate upon Hell, which is moſt diſmal &amp; terrible: Oh a dreadful Place, where the Devil is the Jaylor, Hell the priſon, Damnation the puniſhment, Eternity the Time, Brimſtone the Fire, and Men and infe<g ref="char:EOLhyphen"/>nal Spirits the Fuel; to endure this, will be intol<g ref="char:EOLhyphen"/>lerable; and to avoid it, will be impoſſible. Chriſtians, this preſent Day is the Day of God's Long-ſufferings, but that will be Mans eternally. Oh what Hells there is in hell, the loſs of God, the loſs of Chriſt, the loſs of Saints, the loſs of Angels the loſs of all Good, and the gain of all endleſs,
+<pb n="8" facs="tcp:176201:5"/>caſeleſs, and remedileſs Torments: <hi>The Smoke of their Torments doth aſcend for ever.</hi> Rev. 4.12 and 20.10. Oh that you would think of this end<g ref="char:EOLhyphen"/>leſs and bottomleſs Lake.</p>
+               <p>Conſider, that if thou but once dropeſt into Hell thou wilt be as far from Coming out at the end of a Thouſand Years, as at thy firſt en<g ref="char:EOLhyphen"/>terance: So if that all Men that ever have or ſhall be created, were, <hi>Briarehus</hi> like, hundred handed and ſhould at once take Pens in their hundred<g ref="char:EOLhyphen"/>hands, and do nothing elſe for Ten Hundred Thouſand of Millions of Years, but ſum up in Fi<g ref="char:EOLhyphen"/>gures as many hundred thouſand Millions as they could, yet could they never reduce to a total, or confine within number, this triſyllable Word <hi>[E<g ref="char:EOLhyphen"/>ternal]</hi> or that Word of Four Syllables <hi>[Everlaſting</hi>
+               </p>
+               <p>Now let ſuch as forget God, but ſeriouſly con<g ref="char:EOLhyphen"/>ſider this. It will not be an Impriſonment during the Kings pleaſure, but during the King of King's pleaſure. It is not a Captivity of Seventy Years like that of the Children of <hi>Iſrael</hi> in <hi>Babylon;</hi> for that had an end; nor like a Captivity of Seven<g ref="char:EOLhyphen"/>ty Millions of Generations, for that alſo in time would be expired, But even for ever. The wicked ſhall live as long in Hell, as there ſhall be a Juſt God in Heaven.</p>
+               <p>Here we meaſure Time by Days, months, years; but for Eternity, there is no Arithmetician can number it, no Geometrician can meaſure it: For ſuppoſe the World were turned into a Moun<g ref="char:EOLhyphen"/>tain of Sand, and that a little <hi>Wren</hi> ſhould come every Thouſand Years, and carry away from that heap but one Grain of the Sand
+<pb n="9" facs="tcp:176201:5"/>what an infinite number of Years would be ſpent and expired, before the whole heap would be fetched away? But admit a Man should ſtay in Torments ſo long, and then have an end of his VVoe, it were ſome comfort to think that an end would come: But alas! when he hath finished his task a thouſand times over, he shall be as far from an end of his anguiſh, as ever he was the firſt hour he entered into it. Now ſuppoſe thou ſhouldſt ly but one Night grievouſly afflicted with a raging fit of the ſtone Stranguary, Toothach, Pangs of Travel, or the like; though thou hadſt to help &amp; eaſe thee, a ſoft bed to ly on, friends about thee to comfort thee, Phyſicians to cure thee, all Cordial and Com<g ref="char:EOLhyphen"/>fortable things to aſſwage the pain; yet how tedious &amp; painful would that one Night ſeem unto thee? How wouldſt thou toſs and tumble, and turn from one ſide to another? Count<g ref="char:EOLhyphen"/>ing the Clock, eſteeming every Minute a Month, and thy pre<g ref="char:EOLhyphen"/>ſent Miſery unſupportable. What then will it be to ly in Flames of Fire? (To which our Fire is but Air in compariſon) Fire &amp; Brimſtone keept in the higheſt Flame by the unquench<g ref="char:EOLhyphen"/>able Wrath of God, World without end; where thou ſhalt have nothing about thee but Darkneſs and Horror, Wailing and wringing of Hands, deſperate Yellings and gnaſhing of Teeth: Thy Old Companions in Vanity and Sin, to Ban and Curſe thee; the Devils inſulting over thee with Cruelty and Sorrow; the never-dying Worm of Conſcience to feed upon thy Soul and Fleſh for ever and ever. O everlaſting E er<g ref="char:EOLhyphen"/>nity! an ever-dying Life, and an ever-living Death</p>
+               <p>O then be think thy ſelf of this Word <hi>Eternal</hi> and <hi>everlaſt<g ref="char:EOLhyphen"/>ing,</hi> and ponder upon it; yea do but indeed believe it, and it will be enough to break thine Heart, and make it to relent and repent, and thereby prevent the Wrath to come; it will put thee to demur, what have I done? What am I about? Whither will this Courſe tend? How will it end? What will become of me if I go on in Chambering and Wantonneſs, Sut<g ref="char:EOLhyphen"/>feiting and Drunkenneſs, Strife and Envying, Swearing, Pro<g ref="char:EOLhyphen"/>faneneſs and the like? O then break off thy Sins without delay, and let there be an healing of thine Errors.</p>
+               <p>The Schools affirm, that the beſt torture in Hell exceeds the greateſt that can be deviſed; for ſhould we firſt burn off one Hand, then another after that, each Arm, and ſo all the Parts of the Body, it would be deemed intolerable, and no Man would endure it for all the Profits and Pleaſures this World can afford; and yet is nothing to the burning of the Body and
+<pb n="10" facs="tcp:176201:6"/>Soul in Hell: Should we endure ten thouſand years tormen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Hell, it were grievous, but nothing to Eternity: Shou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we ſuffer one Pain it were miſerable enough; but if ever w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> come there, out Paines ſhall be for number and kinds, infinite<g ref="char:EOLhyphen"/>ly varions, as our pleaſures have been here: Every senſe and Member, each power and faculty both of Soul and Body ſha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have their ſeveral Objects of wretchedneſs, and that without intermiſſion, or end, or eaſe, or patience to endure it, <hi>Lu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 12.5. and 16.23. Mat. 3.12. and 5.22, and 22.23. O th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Men would ſtrip Sin of its diſguiſes, and waſh off its flatteri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Colours, and look into its odious Nature, and to the conſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>quential Evils of it in the next World! O that they would conſider they hang by ſlender Strings, (a little Breath th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expires every Minute) over the Bottomleſs pit, and that with in a little while nothing will remain of the pleaſures of Sin but the undying Worm, and the ever-living Flames,</p>
+               <p>There is a way to keep a Man out of Hell, but no way to get a Man out of Hell: Though the wheat and the Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grow together, they muſt not lie together; ſo in Hell the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhall not be a Saint among thoſe that are tetrified, nor in Heaven a Sinner among thoſe that are glorified,</p>
+               <p>The Sea of bitter Damnation shall not be ſweetned with the leaſt drop of Compaſſion. Oh Chriſtians, will you pity <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Body that is going to the Block, and will you not pity a Soul that is going to a Bottomleſs pit?</p>
+               <p>VVhat a ſad Viſitation is that, where the Black Horſe of Death goeth befo e, and the Red Horſe of wrath followe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> after: Oh how intollerable muſt it needs be, where one Deat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> comes upon the Neck of another.</p>
+               <p>A Mans condition in this Life may be honourable, and yet his ſtate, as to another Life may be damnable: It is better to go with poor <hi>Lazarus</hi> to Heaven, then go with rich <hi>Dives</hi> to Hell: Therefore let us ſtrive to go to Heaven by contem<g ref="char:EOLhyphen"/>plation, that we may avoid going to Hell by condemnation.</p>
+               <p>Conſider further, and add Extremity to Eternity, and then think of Hell. (as it truly is) Hell indeed; for if the Ague of a Year, or the Cholick of a Month, or the Rack of a day, or the burning of an Hour, or the Minutes twitch of a Tooth be ſo unſufferable here, what is Millions of Thouſands of years, nay Eternity of unſpeakable Torments in Hell; and inſtead of being abated, continually aggravated by infernal Fiends, whoſe Society alone would be hideouſly frightfu &amp; amazing.</p>
+               <pb n="11" facs="tcp:176201:6"/>
+               <p>Now what Heart would not bleed to ſee Men run headlong to theſe Torments that are thus endleſs and intolerable? Oh that it were allowed to the reſolute and deſperate Ruffians of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe our days, that Swear and Curſe, Drink, Rob, and Kill, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Blaſpheme, to have but a ſight of this Hell, how would it Charm their Mouths, Moderate their Spirits, and aſtoniſh their Hearts; nay, if they could have but the leaft glimpſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof, they would rather chuſe to be pined to Death ten thouſand times over, than willfully commit one Sin that would ſend them thither.</p>
+            </div>
+            <div type="part">
+               <head>IV. OF HEAVEN.</head>
+               <p>THe Fourth neceſſary thing, is to meditate on Hea<g ref="char:EOLhyphen"/>ven, which is moſt joyful, <hi>Matth.</hi> 25.30. <hi>Come ye bleſſed, inherit the Kingdom prepared for you.</hi> Oh, who can re<g ref="char:EOLhyphen"/>veal the Glorys of Heaven, or what tongue can expreſs the everlaſting pleaſures that's there? There's no Care, nor Sor<g ref="char:EOLhyphen"/>row, nor Toil, nor Labour, no Vexation to diſturb your Quiet: There's all Peace, never ceaſing peace: There's all the Divine Souls, as Angels, Saints, Prophets, Martyrs, Sera<g ref="char:EOLhyphen"/>phims and Cherubims, and all the Coeleſtial Quier, breath forth in their Harmonious Voices, Eternal Halelujahs &amp; Songs of Praiſes to the All glorious Almighty, and Everlaſting God bleſſed for evermore. There every righteous Soul that de<g ref="char:EOLhyphen"/>parts hence, goes and receives a white Robe and an everla<g ref="char:EOLhyphen"/>ſting Crown of Glory; and dwells in that Land of Peace. and drinks of the Rivers of pleaſures, and not for time, but for E<g ref="char:EOLhyphen"/>ternity; an Eternity, I ſay, that will never have an end, there they behold the beauty of the bleſſed God ſeated upon a Throne of divine Majeſty, with his dearly beloved Son, (our bleſſed Saviour) on his right hand, &amp; admire the gloriouſneſs thereof, there they themſelves outſhine the Sun in bright<g ref="char:EOLhyphen"/>neſs; there they continually hear Sounds of harmonious Mu<g ref="char:EOLhyphen"/>ſick; poſſeſſing continual Joy and endleſs Comfort. There is Mirth without Sadneſs, Light without Darkneſs. Pleaſure without Pain, Life without Death, Reſt without Labour, Plen<g ref="char:EOLhyphen"/>ty without Poverty, and Gain without Loſs: VVho would not but work for this Glory with the greateſt diligence, and wait for it with the greateſt patience. Oh what Glo<g ref="char:EOLhyphen"/>rys are there in Glory, Crowns of Glory, Veſſels of Glory, a VVeight of Glory, a Kingdom of Glory. Here Chriſt puts
+<pb n="12" facs="tcp:176201:7"/>His Grace upon his spouſe, but there he puts his Glor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon her: In this Life the Believers have ſome good things but there the beſt are reſerved for thee. Heaven is not only a Poſſeſſion promiſed but a Poſſeſſion putchaſed: VVhen our Contemplations are in Heaven, then we injoy a Heaven upon Earth. Do we delight in good Company? VVhat pleaſure then ſhall we enjoy in the Company of Saints and Angels, in whom there is nothing but Joy, Comfort and delight. Do we deſire Riches, Honour, Beauty, Pleaſure, long Life, or whatever elſe can be named to be delectable, no place ſo glo<g ref="char:EOLhyphen"/>rious by Creation, nor ſo beautiful with delectation, ſo Rich in Poſſeſſion, ſo Comfortable for Habitation, not ſo durable for laſting. There are no Eſtate but inheritance no inhe<g ref="char:EOLhyphen"/>ritance but Kingdoms, no Houſe but Palaces, no Noiſe but Muſick, no Robes but Scepters, no Garments but Robes, no Seats but Thrones no covering for Head but Crowns, <hi>Rom.</hi> 8.17. <hi>Tit.</hi> 3.7. <hi>Heb.</hi> 9.15. <hi>Mat.</hi> 31.34. 2 <hi>Tim.</hi> 4.8. <hi>Gal.</hi> 4.7, 1 <hi>Pet.</hi> 3.9.10. <hi>Mark</hi> 10.23.24.25. <hi>Rev.</hi> 7.3.</p>
+               <p>There we ſhall ſee the bleſſed Face of God, who is the Glory of all ſights, and the ſight of all Glory; yea, our ſelves ſhall out-ſhine the Sun in brightneſs, <hi>Mat.</hi> 13 34,</p>
+               <p>In ſhort our Joy will there be full, and none ſhall be able to take it from us, or leſſen it; <hi>Solomon</hi> in all his Glory and Royality to this, was but a Spark of light in a Chimney to the Sun in the Firmament: <hi>Abſolom</hi>'s Beauty to that is but Deformity: <hi>Samſon</hi>'s ſtrength to that is but infirmity: <hi>Me<g ref="char:EOLhyphen"/>thuſalem</hi>'s Age to theirs, is but Minority; yea, how little, how nothing are the poor and Temporary enjoyments of this Life in compariſon to thoſe we ſhall enjoy in the next, 1 <hi>Cor.</hi> 2.9. Nay Paradiſe, or the Garden of <hi>Eden,</hi> was but a wil<g ref="char:EOLhyphen"/>derneſs compared with this; and if the Gates be of Pearl, and the Streets of Gold, what then are the inner Rooms, the Pre<g ref="char:EOLhyphen"/>ſence Chamber of the great Monarch of Heaven and Earth? what then may we think of the Maker and Builder thereof, who there will be all in all unto us, as Meat to taſte, Beauty to our Eyes, perfumes to our Smell, Muſick to our Ears; and what ſhall I ſay more, but as the <hi>Pſalmiſt</hi> ſaith, <hi>Glorious things are ſpoken of thee thou City of our God,</hi> Pſal. 87.8 Rev. 3.2, 3. and 21.10, to the end. That which makes Heaven ſo full of Joy is, it is above all Fear; and that which makes Hell ſo full of Horror is, that it is below all Hope. The Veſſels of Grace ſhall ſwim in the Ocean of Glory, Here all
+<pb n="13" facs="tcp:176201:7"/>the Earth is nothing for one Man, but there one Heaven is enough for all Men.</p>
+               <p>Therefore, Sirs live ſo, that the word which hath brought Salvation unto your Souls, may bring your Souls to Salvation. We muſt firſt ſhine in Grace, before we can ſhine in Glory.</p>
+               <p>Be willing to want what God is not willing to give. Man is ſuch a Debitor to God, that he can never pay his due to God; we are ſo far from paying the utmoſt farthing, that at the moſt we have not a farthing to pay; there is no Man but hath received more good then he deſerveth, and none more Evil; and therefore ſhould be contented, tho he enjoy but little good, and not diſcontented though he ſuffer much evil, 1 <hi>Tim.</hi> 6.8. A Chriſtian is to ſubmit to the Will of God's diſpoſing, as well as to the Will of God's commanding, A gracious Heart ſhould be never out of heart; if God be not willing to give thee Riches, O then be willing to want Riches: If God be not wil<g ref="char:EOLhyphen"/>ling to give thee Health, O then be thou willing to want it.</p>
+               <p>O Chriſtian ſubmit thy will to Gods Will, that Soul ſhall have his will of God, who deſires nothing but God's Will. Do you but take care of that which belongs to God, and God will take care of all that belongs to you.</p>
+               <p>Now let us conſider a little, what ſignifies theſe ſilly fooliſh Pleaſures here to thoſe that are in Heaven; theſe pleaſures which are but momentary, to thoſe that are Eternal: What if we ſuffer a little ſorrow here, for thirty or fourty Years; which is but a ſmall while to enjoy an Eternity in Happineſs hereafter, is it not better than to partake of the pleaſures of this World, and to have our fill of our beaſtly delights, and to be damned in Hell for it forever after!</p>
+               <p>Oh conſider alſo how much of your precious time is waſted and ſpent, and how little of your great Work is done; hath nor your reſt ſtolen away half your time, and your luſt the other? your Work is great, and your time is ſhort; you have a GOD to honour, a Chriſt to Believe in, a Soul to ſave a Race to run, a Crown to win, a Hell to eſcape, and a Heaven to make ſure of; you have many Temptations to withſtand, and many Afflictious to bear many Mercies to im<g ref="char:EOLhyphen"/>prove, and many Duties to perform, therefore O Chriſtans redeem the time becauſe the days are evil, <hi>Epheſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 5.15, O that every ſtep your Souls take, might be towards Heaven, and that you would make ſure of God to day, becauſe to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you are not ſure of your ſelves: Therefore for the Lords ſake
+<pb n="14" facs="tcp:176201:8"/>improve your time and for your Souls ſake redeem your time. The Lawyer will not loſe his Term, the Waterman will not loſe his Tide, the Trades-man will not loſe his Exchange time, the Husband-man will not loſe his Seaſon, and will you loſe your Seaſon? If you loſe your Seaſon, you loſe your pre<g ref="char:EOLhyphen"/>cious soul. There is but one Heaven, and if you miſs of that you will certainly take up your Lodging in Hell.</p>
+               <p>I muſt ſum up all with theſe Exhortations: Let me beſeech you who are young Men &amp; young Women, to remember your Creator in the days of your youth, that is to ſerve God, to love God, to Honour God, and to obey God in your youth<g ref="char:EOLhyphen"/>full Days; for the Flower of Life is of Chriſt's ſetting there<g ref="char:EOLhyphen"/>fore let it not be of the Devil's plucking, Oh young Peo<g ref="char:EOLhyphen"/>ple, if you be now ſick of the will not, in Old Age you will die (perhaps) of the cannot; if God's to day will be too ſoon for thy Repentance, thy tomorrow will be too late for his Exceptance: Let nothing be done in this World which cannot be anſwered in another, nor nothing undone which may be neceſſary in another. He that departs this World in Faith ſhall be ſaved, but he that departs from the Faith ſhall be dam<g ref="char:EOLhyphen"/>ned. Therefore I ſay unto you all both old and young, with St. <hi>Paul</hi> 1 <hi>Cor.</hi> 15, 58. <hi>Be ſtedfaſt, unmoveable always abound<g ref="char:EOLhyphen"/>ing in the Works of the Lord, for as much as you know that your Labour is not in vain in the Lord.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>some Holy Directions to die well.</head>
+               <p>MY Brethren, what doth the Lord require of you, but to do Juſtice, to love Mercy, and walk humbly with God and to break off with your Sins, and to take no more pleaſure or delight in them, but hate and abhore them for the future, and uterly caſt them behind your backs, &amp; to preſs forewards to the Mark of the prize of the high Calling in Chriſt Jeſus our Lord: for time is haſtening and coming on, wherein it shall be ſaid, <hi>He that is unjuſt, let him be unjuſt ſtill and he that is filthy let him be filthy ſtill, and he that is righteous let him be righteous ſtill</hi> &amp;c. The infinite Holy and heart ſearch<g ref="char:EOLhyphen"/>ing God watcheth, ſeeth, and takes a ſtrict Account of all your Actions, and they will find you out, and if not truly repented of and pardoned, they willly down with you in the Grave, and follow. you in another World, and meet you at God's
+<pb n="15" facs="tcp:176201:8"/>dreadfull Bar, and be open to the view of the whole World. Sin is a bad Bedfellow, and a worſe Grave-fellow.</p>
+               <p>Therefore whatſoever it is now your duty to do both to God and Man, now ſet about and do it with all your might <hi>Eccleſiaſticus</hi> 9, 10. <hi>Now before the Decree comes forth, and the fierce anger of the Lord come upon you,</hi>
+               </p>
+               <p n="1">1, Be very carefull and diligent in thoſe means that are ap<g ref="char:EOLhyphen"/>pointed for your Salvation. 2 <hi>Pet</hi> 1.10. <hi>Make your Calling and Election ſure,</hi> &amp;c. It is our preſent work and buſineſs to make ſure of Eternal Happineſs and Bleſſedneſs; for there is no landing at the Shore of Felicity, without ſailing in the Back of Fidelity; till you make ſure of Salvation, you will never be free from Temptations. <hi>Strive to enter in at the ſtreight Gate,</hi> Luke 13.</p>
+               <p n="2">2. <hi>Therefore pray without ceaſing.</hi> 1 Theſ, 4, 14. Pray con<g ref="char:EOLhyphen"/>tinually though you be not always at Prayer; our daily wants call for dayly Prayers; every Morning put up your Prayers to the moſt high God, Maker of Heaven and Earth: let it be your firſt Work and your laſt Work. You that would be Chriſtians indeed, and not in outward ſhew and Profeſſion only, lock up your hearts with prayer, and give God the Key, and he will preſerve you, and then you may ſleep without any fear of dan<g ref="char:EOLhyphen"/>ger. O you will never want a praying time, if you do not want a praying frame O the ſtrength and vertue of divine Prayer, it will fetch Fire from Heaven, yea an Angel from Heaven to fetch a <hi>Peter</hi> out of Priſon. They that pray heartily and in Faith, may be fully aſſured they ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peed happily, Thirdly take all opportunities and embrace them, for the hearing of the good Word of God; for faith comes by hearing of the Word preached, 4ly. Live in Love and Charity to<g ref="char:EOLhyphen"/>wards all Men, your greateſt Enemies as well as your beſt Friends. 1 <hi>Joh.</hi> 1.18. <hi>My Children let us not live in Word, nei<g ref="char:EOLhyphen"/>ther in Tongue, but in Love and in Truth.</hi> Let your Love be real and true, and not ſelfish, <hi>Gal.</hi> 5, 14 Love thy Neighbour as thy ſelf: And he that is wanting in this great work doth no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rightly and truly love himſelf, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his Love is called an old com<g ref="char:EOLhyphen"/>mandment, and a new Commandment it is as old as the Law of <hi>Moſes,</hi> and as new as the glorious Goſpel of our Lord Jeſus Chriſt. The Natural and Moral Man may love his Friend, but the true Chriſtian indeed loves his Enemies. A Chriſtian ſhould wiſh the beſt to them that wish the worſt to him 5ly. eye humble Chriſtians, <hi>Matth.</hi> 11.29, A Believer is like a
+<pb n="16" facs="tcp:176201:9"/>Veſſel at Sea, the more it fills the more it ſinks; none ſo hum<g ref="char:EOLunhyphen"/>ble on Earth, as thoſe that live higheſt in Heaven. Where hu<g ref="char:EOLunhyphen"/>mility is in the Corner ſtone, there Piety is the Top Stone; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cloth of Humility ſhould always be worn upon the Back o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chriſtianity, If you were but to go to the graves of thoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that are gone before you, you there would ſee their bone<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſcattered, their Eye waſted, their Fleſh conſumed, their mouth corrupted, that it is like were lofty ones. Where be now their ruddy Lips, their lovely Cheeks, their fluent Tongues their ſparkling Eyes? Are they not all gone and come to no<g ref="char:EOLunhyphen"/>thing? and ſo will you be e're long; Therefore what cau<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have ye to be proud of theſe things. 6thl If we have go<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> into Gods favour, let us be ſure to labour to keep his favo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> whilſt we live, and then certainly we shall die in his favour</p>
+               <p>Oh, whoever you be that happen to read theſe few Line let me beg of you to make Religion your main Buſineſs hearing, reading, praying and believing</p>
+               <p>Do nothing in this World but what you can anſwer in ano<g ref="char:EOLunhyphen"/>ther. <hi>For we shall all appear before the Judgement Seat of Chriſt,</hi> &amp; 2 Cor. 5, 10. To Die well is a long Art which thou haſt bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſhort time to learn; they that have long furnished them<g ref="char:EOLunhyphen"/>ſelves with all ſpiritual Means<g ref="char:punc">▪</g> find work enough to vanquis<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and overcome all their ſpiritual Enemies; How then sha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou careleſs Soul, if thou wilt not take hold of this Oppo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tunity, be in hopes to effect it, when the onſet of the Enem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall be moſt ſtrong and prevalent; and thou thro' pains in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Body, and perplexities, and diſtractedneſs of mind very wea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and no ways able to reſiſt; when Impediments ſhall be mult<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>plied and helps diminiſhed, thy diſtraction great, thy inclinatio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> little, and Leiſure none; for at the hour of Death there <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo many and great things will cauſe thee to die, that tho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhalt have neither mind, nor time, nor strength to die we<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>Therefore, as thou deſireſt the everlaſting Welfare of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> precious and immortal Soul, let what has been deſired of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in this ſmall Piece, be ſtrictly obſerved and done without d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lay, that ſo you may be everlaſtingly happy with God a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Holy Angels in the higheſt Heavens,</p>
+            </div>
+            <trailer>FINIS<g ref="char:punc">▪</g>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
